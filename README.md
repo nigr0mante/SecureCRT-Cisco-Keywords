@@ -51,5 +51,3 @@ A little .ini file for SecureCRT v7.3 or later, to highlight the Keywords based 
 	(505) 332-5730 
 	
 	Desde <https://forums.vandyke.com/showthread.php?p=49910#post49910> 
-
-![image](https://user-images.githubusercontent.com/22855177/143080281-09023e7a-4d26-4f47-a61d-7da6f72524b6.png)
