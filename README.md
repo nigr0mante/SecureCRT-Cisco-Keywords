@@ -23,10 +23,10 @@ A little .ini file for SecureCRT v7.3 or later, to highlight the Keywords based 
 	Want to manually import a keyword INI file instead of using the script?
 	If for any reason you don't want to bother with the script -- or it fails to work for you because you're on an unsupported platform/version -- you can "import" your keywords file manually. Here's how...
 			Overview:
-			Copy the "Cisco Words.ini" file into the "Keywords" folder found in SecureCRT's Configuration folder location.
+			Copy the "Cisco.ini" file into the "Keywords" folder found in SecureCRT's Configuration folder location.
 			
 			Details:
-				1) Download the "Cisco Words.ini" file or "Cisco Words for BlackBckgrd.ini" if you haven't already done so.
+				1) Download the "Cisco.ini" file or "Cisco Words for BlackBckgrd.ini" if you haven't already done so.
 				2) Copy the downloaded .ini file to the "Keywords" subfolder found in SecureCRT's Configuration folder.
 					® If you don't know where SecureCRT's Configuration folder is, open Options / Global Options and navigate to the Configuration paths category.
 					® If a "Keywords" subfolder doesn't exist in SecureCRT's Config folder, create one there and set permissions on it (if necessary) so that you can write/copy files into that location.
