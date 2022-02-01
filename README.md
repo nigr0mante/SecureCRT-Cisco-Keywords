@@ -18,5 +18,9 @@ This example demonstrates an easy way to import a Keyword Highlighting INI file 
 
 The configuration file directory is in %appdata%\VanDyke\Config\keywords, the suffix is .ini
 
+3. Remember to only check the 'Color' option inside the Advanced Keyword Highlighting:
+![](https://lihaifeng.net/wp-content/uploads/2020/11/Keywords-2-768x694.png)
 
+
+## Visual example
 ![image](https://user-images.githubusercontent.com/22855177/143246542-41e43eb4-9b34-4087-9c0f-5225dae3045e.png)
